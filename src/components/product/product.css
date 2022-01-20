@@ -1,0 +1,39 @@
+.product{
+  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  margin: 2%;
+  padding: 15px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 6px;
+}
+
+.add-to-cart{
+  display: inline-block;
+    background: white;
+    border-radius: 0px 9px 9px 0px;
+    border: 2px solid palevioletred;
+    color: palevioletred;
+    padding: 0.25em 1em;    
+    width: 80%;
+}
+
+.count-input{
+  width: 40px;
+  height: 20.5px;
+  background: white;
+  color: palevioletred;
+  display: inline-block;
+  border-radius: 9px 0px 0px 9px;
+  border-width: 2px 0px 2px 2px;
+  border-style: solid;
+  border-color: palevioletred;
+  border-image: initial;
+  border-right-style: initial;
+  border-right-color: initial; 
+}
+
+.product-image{
+  width: 200px;
+  height: 200px;
+}

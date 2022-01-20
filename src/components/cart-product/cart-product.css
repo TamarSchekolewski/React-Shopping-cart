@@ -1,0 +1,30 @@
+.img{
+    display: flex;
+    height: 100px;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.product-cart{
+    justify-content: center;
+    display: grid; 
+    grid-template-columns: 15% 20% 10% 10% 2% 2% 8% 15%;
+    height: 100px;
+    margin: 10px 0px;
+}
+
+.icon{
+    width: 20px;
+    margin: 5px;
+    cursor: pointer;
+    padding-top: 35px;
+}
+
+.txt{
+    display: flex;
+    align-items: center;
+}
+
+.details{
+    text-align: left;
+}

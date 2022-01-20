@@ -1,0 +1,63 @@
+[
+    {
+      "id": "X2W3X5",
+      "name": "Bayby shoes",
+      "imageUrl": "01.png",
+      "price": 19.90
+    }, 
+    {
+      "id": "X2G2OPZ",
+      "name": "Baby clothes",
+      "imageUrl": "02.png",
+      "price": 39.90
+    },
+    {
+      "id": "X2W3A9",
+      "name": "Hat",
+      "imageUrl": "03.png",
+      "price": 12.50
+    },
+    {
+      "id": "X2W3X2PW",
+      "name": "Baby clothes",
+      "imageUrl": "04.png",
+      "price": 24.99
+    },
+    {
+      "id": "X7J2OPF",
+      "name": "A thick shirt",
+      "imageUrl": "05.png",
+      "price": 24.99
+     },
+    {
+      "id": "X7J1OPM",
+      "name": "Baby clothes",
+      "imageUrl": "06.png",
+      "price": 15.99
+    },
+    {
+      "id": "Y3D5S8FN",
+      "name": "Dress",
+      "imageUrl": "07.png",
+      "price": 99.99
+    },
+    {
+      "id": "Y3D4LPO5",
+      "name": "Coat",
+      "imageUrl": "08.png",
+      "price": 149.99
+    },
+    {
+      "id": "Y3D4D1FN",
+      "name": "Babygro",
+      "imageUrl": "09.png",
+      "price": 19.90
+    },
+    {
+      "id": "Y3D8D1F1",
+      "name": "Baby Suit",
+      "imageUrl": "10.png",
+      "price": 100.00
+    }
+  ]
+  
