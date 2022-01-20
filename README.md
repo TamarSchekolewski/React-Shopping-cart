@@ -1,4 +1,5 @@
-# Setup
+# SHOPPING-CART
+## Setup
 
 Goto the project folder and install required dependencies:
 
